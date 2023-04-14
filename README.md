@@ -1,5 +1,4 @@
-# Strip
 
-![image](https://user-images.githubusercontent.com/70176410/232163471-969a62b6-81f3-42d2-99a0-46670aee33c4.png)
+![image](https://user-images.githubusercontent.com/70176410/232163856-58af5932-a35a-4507-91c2-8985500fe455.png)
 
-Simple programming language, built on Python.
+#Simple programming language, built on Python.
