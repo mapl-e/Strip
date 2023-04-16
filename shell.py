@@ -1,9 +1,8 @@
-from modules import basic
+import base
 
 while True:
-    text = input('Stripe >>')
-    print(text)
-    result, error = basic.run(text)
+    text = input('Stripe >>>  ')
+    result, error = base.run('<stdin>', text)
 
     if error: print(error.as_string())
     else: print(result)
