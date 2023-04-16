@@ -8,9 +8,9 @@ For your first interaction with Strip, open the "shell.py" file and input any wo
 
 An error will pop up!
 
-```Stripe >>>  hello world
+`Stripe >>>  hello world
 Illegal Character: 'h'
-File <stdin>, line 1```
+File <stdin>, line 1`
 
 In the shell, you cannot use any letters, only numbers! This is just the start.
 Ill continue with the project to make it actually "useful", I doubt it will ever become useful,
