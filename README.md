@@ -8,7 +8,7 @@ For your first interaction with Strip, open the "shell.py" file and input any wo
 
 An error will pop up!
 
-`Stripe >>>  hello world
+`Strip >>>  hello world
 Illegal Character: 'h'
 File <stdin>, line 1`
 
