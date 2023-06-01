@@ -12,9 +12,11 @@ An error will pop up!
 Illegal Character: 'h'
 File <stdin>, line 1`
 
-In the shell, you cannot use any letters, only numbers! This is just the start.
+In the shell, you cannot use any letters, only numbers (and arithmetic symbols) ! This is just the start.
 Ill continue with the project to make it actually "useful", I doubt it will ever become useful,
 but welp, i'll give it a chance! :)
+
+(The reason that happens is because I have only made a lexer so far)
 
 
 # MIT License
